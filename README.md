@@ -1,5 +1,11 @@
 # Klaytn Node Setup
 
+## Environment
+- Mac OS (Big Sur)
+
+## Prerequesite
+- wget
+
 ## Script
 
 ### servicechain.sh 
